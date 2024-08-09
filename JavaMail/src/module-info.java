@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Chinna
+ *
+ */
+module JavaMail {
+}
